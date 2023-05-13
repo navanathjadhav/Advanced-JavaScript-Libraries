@@ -73,11 +73,11 @@ For code editors, Ace Editor and Monaco Editor are both popular libraries that e
 
 ## Conclusion
 
-Whether you are building a gaming application, data visualization, or real-time communication, this roadmap provides a useful guide to the best JavaScript libraries for your needs. Each library is carefully selected to provide advanced features and functionality
+Whether you are building a gaming application, data visualization, or real-time communication, this roadmap provides a useful guide to the best JavaScript libraries for your needs. Each library is carefully selected to provide advanced features and functionality.
 
 ## Share & Care
 
-If you think this project is helpful share it on [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/Advanced-JavaScript-Libraries)
+If you think this project is helpful share it on [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/Advanced-JavaScript-Libraries).
 
 ## Contribute
 
