@@ -15,7 +15,7 @@ Thanks.
 
 Get a [PDF version](./Advanced-JavaScript-Libraries.pdf).
 
-## Gaming
+## Gaming (Game Engines)
 
 If you are building a gaming application, you might consider using Phaser.js or PixiJS for 2D games, or Three.js or Babylon.js for 3D games. These libraries provide a wide range of features and tools for game development, including animation, physics, and input handling.
 
